@@ -2,7 +2,7 @@ namespace Hello_world
 {
     class Multidimensional
     {
-        static void multi()
+        public void multi()
         {
             //Array/Matriz 2D
             string[,] array2D = new string[,]
@@ -34,7 +34,7 @@ namespace Hello_world
                 }
             };
 
-            Console.WriteLine(array3D[1,2,0] + " - " + array3D.Rank);
+            Console.WriteLine(array3D[1,2,0] + " -  " + array3D.Rank);
         }
     }
 }
