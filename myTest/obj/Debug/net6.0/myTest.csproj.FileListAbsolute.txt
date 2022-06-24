@@ -1,0 +1,15 @@
+C:\Users\josus\OneDrive\Documentos\Programming\c#\myTest\bin\Debug\net6.0\myTest.exe
+C:\Users\josus\OneDrive\Documentos\Programming\c#\myTest\bin\Debug\net6.0\myTest.deps.json
+C:\Users\josus\OneDrive\Documentos\Programming\c#\myTest\bin\Debug\net6.0\myTest.runtimeconfig.json
+C:\Users\josus\OneDrive\Documentos\Programming\c#\myTest\bin\Debug\net6.0\myTest.dll
+C:\Users\josus\OneDrive\Documentos\Programming\c#\myTest\bin\Debug\net6.0\myTest.pdb
+C:\Users\josus\OneDrive\Documentos\Programming\c#\myTest\obj\Debug\net6.0\myTest.csproj.AssemblyReference.cache
+C:\Users\josus\OneDrive\Documentos\Programming\c#\myTest\obj\Debug\net6.0\myTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josus\OneDrive\Documentos\Programming\c#\myTest\obj\Debug\net6.0\myTest.AssemblyInfoInputs.cache
+C:\Users\josus\OneDrive\Documentos\Programming\c#\myTest\obj\Debug\net6.0\myTest.AssemblyInfo.cs
+C:\Users\josus\OneDrive\Documentos\Programming\c#\myTest\obj\Debug\net6.0\myTest.csproj.CoreCompileInputs.cache
+C:\Users\josus\OneDrive\Documentos\Programming\c#\myTest\obj\Debug\net6.0\myTest.dll
+C:\Users\josus\OneDrive\Documentos\Programming\c#\myTest\obj\Debug\net6.0\refint\myTest.dll
+C:\Users\josus\OneDrive\Documentos\Programming\c#\myTest\obj\Debug\net6.0\myTest.pdb
+C:\Users\josus\OneDrive\Documentos\Programming\c#\myTest\obj\Debug\net6.0\myTest.genruntimeconfig.cache
+C:\Users\josus\OneDrive\Documentos\Programming\c#\myTest\obj\Debug\net6.0\ref\myTest.dll
