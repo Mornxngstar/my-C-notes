@@ -2,7 +2,7 @@ namespace Hello_world
 {
     class Arrays
     {
-        public static void arr()
+        public void arr()
         {
             //Primera forma de inicializar un array
             int[] calificaciones = new int[5];
